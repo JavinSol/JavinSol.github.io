@@ -6,7 +6,8 @@ title: "A step into Javascript"
 date: 2024-01-17
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Javascript
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascriptimage.png">
