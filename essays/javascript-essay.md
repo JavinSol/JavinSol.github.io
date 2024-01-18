@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "A step into Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="..img/javascriptimage.png">
 
 ## Very familiar yet very different.
 
