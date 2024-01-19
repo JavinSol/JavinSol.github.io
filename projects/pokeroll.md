@@ -20,7 +20,7 @@ This is an example of the bot in work:
 
 <pre>
 ----------------
-<img class="img-fluid" src="../img/cotton/Bot_test.png">
+<img class="img-fluid" src="../img/Bot_test.png">
 
 ---------------
 </pre>
