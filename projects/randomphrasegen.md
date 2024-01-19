@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/randomphrase.png
 title: "Random Phrase Generator"
 date: 2022
 published: true
@@ -11,9 +11,6 @@ labels:
 summary: "A Project for my CS Class where we had to create a random phrase from a certain formated list."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-</div>
 
 This project was a random phrase generator, that given a certain type of formatted list of words, we are to create a random phrase from that list in Java. We are also to make this in the shortest run time we could. This was done with a partner, where we both worked on it together.
 
