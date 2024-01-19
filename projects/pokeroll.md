@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Pokeroll"
-date: 2014
+date: 2022
 published: true
 labels:
   - Lisp
