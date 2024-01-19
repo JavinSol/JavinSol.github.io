@@ -9,8 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 
 ## How I am in the Computer Science field
 
@@ -18,7 +16,7 @@ I only got into software engineering by the time I was a senior in high school. 
 
 ## Why I am staying in this field
 
-To ask myself why I am interested in this field. It's the feeling of being able to create many things that you want and the satisfaction of finishing a project and seeing it work. Especially when it comes to creating something for others to use. Things I want to do in the future is to make a game that I can enjoy playing and others as well.
+To ask myself why I am interested in this field. It's the feeling of being able to create many things that you want and the satisfaction of finishing a project and seeing it work. Especially when it comes to creating something for others to use. Things I want to do in the future is to make a game that I can enjoy playing and others as well. There is so much to learn in this field and I only know barely anything. Just the basics of Java, C++ and Javascript. But even with just the basics, It feels like I can create so many things. And another great thing about programming is that there isn’t just one way you can solve a problem. One might be inefficient but can work or another might take more code to produce but all that matters is if it fits your needs.
 
 ## Goals for the future
 
