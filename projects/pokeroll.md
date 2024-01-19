@@ -12,7 +12,7 @@ summary: "A small discord bot I built for a pokemon tabletop campaign. "
 ---
 
 Pokeroll is a discord bot created to help users playing the tabletop game [PokeRole](https://www.pokeroleproject.com/). It is both a dice roller, and a way for users to search for a specific move that they are looking for. 
-This was a solo project that I did to both help test my skills and to make something for my friends. It mainly helped in practicing the basics, as well as understanding and using the discord library in order to recive and upload messages to and from the bot.
+This was a solo project that I did to both help test my skills and to make something for my friends. It mainly helped in practicing the basics, as well as understanding and using the discord library in order to receive and upload messages to and from the bot.
 
 This is an example of the bot in work:
 
