@@ -7,7 +7,7 @@ date: 2018
 published: True
 labels:
   - Electrical Engineering
-  - Welding
+  - Soldering
 summary: "A Small bluetooth Speaker created durring HCC Summer Engineering Academy 2018"
 ---
 <img width="200px" src="../img/speaker.jpg" class="img-thumbnail" >
