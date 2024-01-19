@@ -11,7 +11,7 @@ labels:
 summary: "A small discord bot I built for a pokemon tabletop campaign. "
 ---
 
-Pokeroll is a discord bot created to help users playing the tabletop game PokeRole. It is both a dice roller, and a way for users to search for a specific move that they are looking for. 
+Pokeroll is a discord bot created to help users playing the tabletop game [PokeRole](https://www.pokeroleproject.com/blog). It is both a dice roller, and a way for users to search for a specific move that they are looking for. 
 This was a solo project that I did to both help test my skills and to make something for my friends. It mainly helped in gaining the basics back for me.
 
 This is an example of the bot in work:
