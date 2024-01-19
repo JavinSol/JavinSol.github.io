@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/speaker.jpg
 title: "Bluetooth Speaker"
 date: 2018
 published: True
@@ -11,16 +11,11 @@ labels:
 summary: "A Small bluetooth Speaker created durring HCC Summer Engineering Academy 2018"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/speaker.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During Honolulu Community College Engineering Academy, we created a bluetooth speaker, using the knowledge of circuits, and Soldering, we created a small speaker with the capability of bluetooth. This and other projects were done at this Summer Academy where we were taught skills regarding Electrical Engineering, Like Soldering, 3d Printing/CAD, and use of the Multimeter tool.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+A page from the worksheet given:
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+<img class="img-fluid" src="../img/hcc_thing.jpg">
