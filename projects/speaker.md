@@ -18,4 +18,4 @@ During Honolulu Community College Engineering Academy, we created a bluetooth sp
 
 A page from the worksheet given:
 
-<img width="200px" src="../img/hcc_thing.jpg" class="img-thumbnail" >
+<img width="600px" src="../img/hcc_thing.jpg" class="img-thumbnail" >
