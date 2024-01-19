@@ -13,8 +13,6 @@ summary: "A Project for my CS Class where we had to create a random phrase from 
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 This project was a random phrase generator, that given a certain type of formatted list of words, we are to create a random phrase from that list in Java. We are also to make this in the shortest run time we could. This was done with a partner, where we both worked on it together.
