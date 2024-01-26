@@ -11,17 +11,19 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+
 
 ## What is a smart question
-A big skill to learn as a software engineer is how to ask a question. Not just any question but a “smart question”.  But what is a smart question, and why is it a big skill to learn? From “How to ask Questions The Smart Way”(Attach Link) by Eric Raymond has a good guide on how to ask smart questions. Some of the important points are, to make a good header, one that is about your problem and the specific parts/system you need help on. Give as much information as possible about the problem, what is wrong, what system or environment you are working on, what you are trying to receive and what steps have you tried in fixing the problem before asking. 
+A big skill to learn as a software engineer is how to ask a question. Not just any question but a “smart question”.  But what is a smart question, and why is it a big skill to learn? From [“How to ask Questions The Smart Way”](http://www.catb.org/esr/faqs/smart-questions.html#idm696) by Eric Raymond has a good guide on how to ask smart questions. Some of the important points are, to make a good header, one that is about your problem and the specific parts/system you need help on. Give as much information as possible about the problem, what is wrong, what system or environment you are working on, what you are trying to receive and what steps have you tried in fixing the problem before asking. 
 
 
 
 ## Why a Smart Question is important
 The reason you want to propose your questions like this is to make it easier for people to respond and give out a good answer to your questions.With a good header, this will help with people with the same type of problem trying to look up a solution. It is also easier for people with the information to find your question in the sea of other questions and answer it. Giving good information, mainly about the problem, makes it so others can see exactly what kind of problem you are trying to solve, and what to recommend or do to solve it. Maybe you need to do x but can’t do y because of some reason. If you clearly state that, when others are answering, they know to avoid using y. 
 
-
+##An example of a Smart Question
+[https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs](https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs)
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## The Post Summary:
 
