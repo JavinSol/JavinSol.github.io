@@ -24,10 +24,10 @@ The reason you want to propose your questions like this is to make it easier for
 ## An example of a Smart Question:
 [https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs](https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs)
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Stackoverflow.png">
+<img width="500px" class="img-fluid" src="../img/Stackoverflow.png">
 
 ## Response of the Smart Question:
-<img width="300px" class="rounded float-start pe-4" src="../img/stackawnser.png">
+<img width="500px" class="img-fluid" src="../img/stackawnser.png">
 
 ## The Post Summary:
 
