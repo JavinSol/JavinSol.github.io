@@ -21,12 +21,12 @@ A big skill to learn as a software engineer is how to ask a question. Not just a
 ## Why a Smart Question is important
 The reason you want to propose your questions like this is to make it easier for people to respond and give out a good answer to your questions.With a good header, this will help with people with the same type of problem trying to look up a solution. It is also easier for people with the information to find your question in the sea of other questions and answer it. Giving good information, mainly about the problem, makes it so others can see exactly what kind of problem you are trying to solve, and what to recommend or do to solve it. Maybe you need to do x but can’t do y because of some reason. If you clearly state that, when others are answering, they know to avoid using y. 
 
-## An example of a Smart Question
+## An example of a Smart Question:
 [https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs](https://stackoverflow.com/questions/74868311/how-can-i-secure-a-component-in-reactjs)
-Question:
+
 <img width="300px" class="rounded float-start pe-4" src="../img/Stackoverflow.png">
 
-Answer:
+## Response of the Smart Question:
 <img width="300px" class="rounded float-start pe-4" src="../img/stackawnser.png">
 
 ## The Post Summary:
