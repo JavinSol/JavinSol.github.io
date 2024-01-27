@@ -11,8 +11,10 @@ labels:
 summary: "A small discord bot I built for a pokemon tabletop campaign. "
 ---
 
-Pokeroll is a discord bot created to help users playing the tabletop game [PokeRole](https://www.pokeroleproject.com/). It is both a dice roller, and a way for users to search for a specific move that they are looking for. 
-This was a solo project that I did to both help test my skills and to make something for my friends. It mainly helped in practicing the basics, as well as understanding and using the discord library in order to receive and upload messages to and from the bot.
+This project is a simple discord bot created to help me and my friends for a tabletop game [PokeRole](https://www.pokeroleproject.com/). I created a simple dice roller for us to have, as well as an index for moves. When someone wants to find a move for a pokemon, all they have to do is type the bots command + the move and the bot sends an image of the move in the book. This was done in Java using [JDA](https://github.com/discord-jda/JDA).
+
+This was just a simple project done because I wanted to work on a project and there was something I could do that could help me and my friends with something. Some of the things learned from this project is just working on a project not from school, the motivation to code and the brush up on basics for this. It also showed how to work with external libraries and how to use and read the documentation.
+
 
 This is an example of the bot in work:
 
