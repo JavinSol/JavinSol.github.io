@@ -27,7 +27,7 @@ I am trying coding with a pre-established coding standard which is ESLint. Doing
 
 
 ## Final Thoughts
-
+Even If I think that it's an annoying thing to do, I'm still keeping to ESLint until I can get a common rhythm of typing to the coding standard so that later on I can make my own standard for myself that is visually readable. Because right now without it, sometimes my code might look a little weird, but ESLint is showing me to type it cleaner more constantly. Hopefully I can have this skill developed as many of the jobs I can go for will be with other people sharing the code constantly and if I can’t have easily readable code for others, it's going to be a problem for me to explain it. 
 
 
 
