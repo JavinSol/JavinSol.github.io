@@ -25,7 +25,7 @@ I am trying coding with a pre-established coding standard which is ESLint. Doing
 
 
 ## ESLint Example of problems:
-<img width="600px" class="rounded float-start pe-4" src="../img/ESLINT-EXAMPLE.png">
+<img width="600px" src="../img/ESLINT-EXAMPLE.png">
 
 
 ## Final Thoughts
