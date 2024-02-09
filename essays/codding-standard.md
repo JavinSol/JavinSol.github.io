@@ -27,6 +27,7 @@ I am trying coding with a pre-established coding standard which is ESLint. Doing
 
 ## ESLint Example of problems:
 <img width="600px" src="../img/ESLINT-EXAMPLE.png">
+
 In this example it's showing that you're not supposed to have a random line just tabbed, no space before the bracket, as well as needing to have an empty line at the end of the file.
 
 ## Final Thoughts:
