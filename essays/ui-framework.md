@@ -12,7 +12,7 @@ labels:
   - BootStrap
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
 
 ## HTML What is it?
 
@@ -28,13 +28,13 @@ But if you want to have a more interactive system for your website and don’t w
 Here I wanted to emulate the box here on this website where the box partially goes over the image. The way I had to do it was to style it so that the image was in a certain index, make the box margin into the negative to move into the image partially and then had to use a shadow to color the outside.
 
 What I implemented:
-<img width="100px" class="rounded float-start pe-4" src="../img/boxthing.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/Boxthing.png">
 
 The first part of this:
-<img width="100px" class="rounded float-start pe-4" src="../img/startingpart.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/startingpart.png">
 
 The style needed to acheive the effect:
-<img width="100px" class="rounded float-start pe-4" src="../img/example-style.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/example-style.png">
 
 ## Opinions of Bootstrap and HTML 
 
