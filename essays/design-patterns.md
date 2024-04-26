@@ -22,6 +22,7 @@ for you later. A great thing to use, Makes it easier for you to use again for si
 ## The Shortcut to it all, or Blueprint
 
 What is this called you may ask? Design Patterns. A name created in a book called “Design Patterns” by the Gang of Four(GoF). Reiterating from above, It's about creating patterns, by using objects and classes to solve a set of problems in certain scenarios. Usually its going to be dealing with Creation, Structure, Behavioral. With Creation focusing on the creation of objects and how the creation is going to be handled. Something like cloning an object already made (Prototype method), or making creation more abstract while making its subclasses objects needed (Factory Method). Structure is the focus on the structure, or bigger picture to use objects and classes to make it better. Where you are making a way for two classes, interface, objects interact when they normally can’t (Adapter Method), Using similar states of multiple classes or objects shared to save space(Flyweight Method). And behavioral focusing on how the classes, objects, interfaces interact with each other. You can create a super class that has all these rules and all, and have the subclasses override certain spots separately(Template Method). 
+
 <img width="300px" src="../img/templatemethod.png">
 
 ## Conclusion
