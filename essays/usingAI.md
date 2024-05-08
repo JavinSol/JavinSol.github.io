@@ -11,8 +11,11 @@ labels:
   - ChatGpt
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/Ai.jpg">
 ### I. Introduction
 A.I. has been advancing in a very quick way over these past few years. With many different A.I. tools coming out with ChatGpt, Github Co-Pilot, Dall-E and many more. You're able to ask questions and for it to give you answers, making it so you don’t have to search for many things. It's a very interesting tool to use for many different things, and especially in software engineering. You're able to try and type your general problem to get a fast explanation on what to do for your problem. Maybe not fully reliable all the time, but it can be way faster than having to go around and find the solution to your problem on the internet. Most of the classes you are going to take are going to say no to the use of A.I. in general. But recently I took a class that allowed and encouraged me to try and use A.I. to help you out. This class Ics 314 gave an introspective on how A.I. can be used for the Software engineering environment.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/chatgpt.png">
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
