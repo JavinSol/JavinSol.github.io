@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A New tool to learn"
+title: "The new Explination Bot"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
