@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/shoptest.png
 title: "Shop Manoa"
 date: 2024
 published: true
