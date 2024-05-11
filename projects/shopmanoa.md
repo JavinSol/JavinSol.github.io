@@ -31,8 +31,8 @@ But through the work of this project, a big thing I learned was about designing 
 This project was an early show of what I am to expect and what is to come in this route I choose. 
 As this is the first Computer Science type project that isn’t solo or just with one partner, as well as focus on creating something new rather than just following some instructions that a teacher gave me, I will focus and work to improve the flaws that I had when working with others.
 
-Check out our project here: https://shop-manoa.github.io/ 
-
-(If the site still works here): https://shop-manoa.com/ 
+[Check out our project here](https://shop-manoa.github.io)
+  
+[If the site still works here](https://shop-manoa.com)
 
 I want to thank my group for working very hard on this project.
