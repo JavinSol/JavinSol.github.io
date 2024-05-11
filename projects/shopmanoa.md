@@ -12,7 +12,7 @@ labels:
   - Meteor/MongoDB
 summary: "A website created to help UHM students/faculty sell their goods/items"
 ---
-<img width="500px" class="rounded float-start pe-4" src="../img/landing-page.jpg">
+<img width="500px" src="../img/landing-page.jpg">
 Shop Manoa is a project created to help students at the University of Hawaii Manoa Campus to sell their objects, things or services on campus with other students. This marketplace is similar to marketplaces like Craigslist, Ebay, or Facebook Marketplace but located only in UHM. 
 
 ## The Overview shown on our github page:
