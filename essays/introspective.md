@@ -30,4 +30,4 @@ It is the first time working on something for someone else that wasn’t just an
 In general this whole project was a great way to see what's to come in the computer science field. I do hope to get to go more into this field after this. Seeing the Customer see what we created was the best feeling, and having others to fall back on is a nice feeling. Although I wished I could have been better, given some experience hopefully I won't be a complete fish out of water and be able to give good feedback and things to the project more next time.
 
 ## The Project:
-https://teamusa2025.github.io/
+[https://teamusa2025.github.io/](https://teamusa2025.github.io/)
